@@ -88,7 +88,7 @@ function contador() {
 window.onload = contador;
 
 // var upgradeTime = 10;
-var upgradeTime = 10800;
+var upgradeTime = 13500;
 var seconds = upgradeTime;
 function timer() {
   var days        = Math.floor(seconds/24/60/60);
